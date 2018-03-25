@@ -1,0 +1,4 @@
+Stanford	CA	16000	 
+Berkeley	CA	31000	 
+MIT	MA	12000	 
+Cornell	NY	21500	 
