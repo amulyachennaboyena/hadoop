@@ -1,1 +1,4 @@
-firstly I have imported the data sets 
+firstly I have saved the data sets into local 
+from there I have saved the files into hdfs 
+from there I have loaded them into hive by creating external tables for them
+later I have queried them by using view command
