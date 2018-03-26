@@ -6,6 +6,9 @@ later I have queried them by using view command
 
 
  dowload data sets and copy them to cloudera /user/cloudera/college
+ /user/cloudera/apply   
+ /user/cloudera/student
+ 
  college contains college_2010.txt,college_2011.txt
  apply contains apply_2010.txt,apply_2011.txt
  student contains student_2010.txt,student_2011.txt
