@@ -1,0 +1,5 @@
+hadoop project1 
+
+simple hive and sql 
+
+
